@@ -10,9 +10,7 @@ Applying to college and want to see how colleges compare with each other? Common
 
 ### Support
 
-If you notice any mistakes in the data (like a college that should be considered closed) or if you have found a college/CDS link that was missing, please provide the name of the college, the state, and the CDS link(s)!
-
-Please create a pull request using **pr_template.md**.
+If you notice any mistakes in the data (like a college that should be considered closed) or if you have found a college/CDS link that was missing, please create a pull request using **pr_template.md**!
 
 ### Resources
 
