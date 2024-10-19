@@ -1,7 +1,7 @@
 # cds-archive
 ## The Common Data Set Archive for Higher Education Institutions in the United States of America
 
-Applying to college and want to see how colleges compare with each other? Common Data Sets (CDSs) can help you! The [Common Data Set Initiative](https://commondataset.org/) tries to improve data reporting accuracy and quality. Each CDS contains standardized data items that colleges can opt to fill out. 
+Applying to college and want to see how colleges compare with each other? Or looking for data on colleges' pasts? Common Data Sets (CDSs) can help you! The [Common Data Set Initiative](https://commondataset.org/) tries to improve data reporting accuracy and quality. Each CDS contains standardized data items that colleges can opt to fill out. 
 
 ### Notes
 - Some colleges may be listed multiple times; this may be because they have many campuses across the state/country
