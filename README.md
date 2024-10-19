@@ -14,7 +14,7 @@ If you notice any mistakes in the data (like a college that should be considered
 
 ### Resources
 
-By searching through the internet, we have collected links to colleges that have publicly available Common Data Sets. These colleges were found by going through the wikipedia pages for colleges in each state and the District of Columbia.
+By searching through the Internet, we have collected links to colleges that have publicly available Common Data Sets. These colleges were found by going through the wikipedia pages for colleges in each state and the District of Columbia.
 
 | State | Link |
 | ----- | ---- |
